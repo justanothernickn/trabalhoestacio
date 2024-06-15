@@ -6,3 +6,5 @@ Pessoal sumio, Tkinter n quis funcionar com o meu VS por algm problema, ent to s
 consegui apenas dois, e msm assim tão faltando ._.
 
 Upd: 3, mas o terceiro n vale mt
+
+Upd2: desisti, n tenho como fazer o resto ._.
